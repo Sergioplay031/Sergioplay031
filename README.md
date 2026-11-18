@@ -8,7 +8,7 @@
 
 **Desarrollo de Aplicaciones Multiplataforma · Aprendizaje continuo · Proyectos reales**
 
-[![Portfolio](https://img.shields.io/badge/DamAcademy-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://apuntes-dam-web.vercel.app)
+[![Portfolio](https://img.shields.io/badge/DamAcademy-Visitar%20web-0B1728?style=for-the-badge&labelColor=0077B6&logo=vercel&logoColor=white)](https://apuntes-dam-web.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-101827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sergioplay031)
 
 </div>
@@ -47,7 +47,7 @@ Enfoque     Aprender, construir y compartir
 
 Plataforma educativa para estudiar programación de forma más visual e interactiva.
 
-[🌐 Visitar web](https://apuntes-dam-web.vercel.app)
+[![Abrir DamAcademy](https://img.shields.io/badge/ABRIR%20DAMACADEMY-00D9FF?style=for-the-badge&logo=vercel&logoColor=000000)](https://apuntes-dam-web.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -60,17 +60,7 @@ Guía práctica para aprender a trabajar con ramas, commits y repositorios colab
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
 
-**🛒 Tienda de artículos — PHP MVC**
-
-Proyecto de aprendizaje con arquitectura MVC, PHP, MariaDB y Docker Compose.
-
-*Proyecto en desarrollo. Enlace al repositorio pendiente de publicar.*
-
-</td>
-</tr>
 </table>
 
 ### `>_` Estadísticas
