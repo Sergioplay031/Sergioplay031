@@ -56,7 +56,11 @@ Plataforma educativa para estudiar programación de forma más visual e interact
 
 Guía práctica para aprender a trabajar con ramas, commits y repositorios colaborativos.
 
-[📁 Repositorio](https://github.com/Sergioplay031/GUIA_COLABORADORES_GIT_GITHUB) · [🌐 Guía online](https://sergioplay031.github.io/GUIA_COLABORADORES_GIT_GITHUB/)
+
+<a href="https://apuntes-dam-web.vercel.app">
+  <img src="https://img.shields.io/badge/▲%20ABRIR%20DAMACADEMY-355C9D?style=for-the-badge&logoColor=white&labelColor=355C9D" alt="Abrir DamAcademy">
+</a>
+
 
 </td>
 </tr>
