@@ -37,6 +37,7 @@ Enfoque     Aprender, construir y compartir
 
 </div>
 
+
 ### `>_` Proyectos destacados
 
 <table>
@@ -47,7 +48,7 @@ Enfoque     Aprender, construir y compartir
 
 Plataforma educativa para estudiar programación de forma más visual e interactiva.
 
-[![Abrir DamAcademy](https://img.shields.io/badge/ABRIR%20DAMACADEMY-00D9FF?style=for-the-badge&logo=vercel&logoColor=000000)](https://apuntes-dam-web.vercel.app)
+[![Abrir DamAcademy](https://img.shields.io/badge/ABRIR%20DAMACADEMY-355C9D?style=for-the-badge&logo=vercel&logoColor=white)](https://apuntes-dam-web.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -56,15 +57,10 @@ Plataforma educativa para estudiar programación de forma más visual e interact
 
 Guía práctica para aprender a trabajar con ramas, commits y repositorios colaborativos.
 
-
-<a href="https://apuntes-dam-web.vercel.app">
-  <img src="https://img.shields.io/badge/▲%20ABRIR%20DAMACADEMY-355C9D?style=for-the-badge&logoColor=white&labelColor=355C9D" alt="Abrir DamAcademy">
-</a>
-
+[📁 Repositorio](https://github.com/Sergioplay031/GUIA_COLABORADORES_GIT_GITHUB) · [🌐 Guía online](https://sergioplay031.github.io/GUIA_COLABORADORES_GIT_GITHUB/)
 
 </td>
 </tr>
-
 </table>
 
 ### `>_` Estadísticas
