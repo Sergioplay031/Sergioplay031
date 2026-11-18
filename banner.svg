@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Sergio Bravo, Software Developer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050912"/><stop offset=".6" stop-color="#0a1528"/><stop offset="1" stop-color="#02050c"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0076a3" stop-opacity="0"/><stop offset=".5" stop-color="#00d9ff"/><stop offset="1" stop-color="#0076a3" stop-opacity="0"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#125278" stroke-opacity=".24" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<g stroke="#00bfff" fill="none" opacity=".35" stroke-width="2">
+<path d="M0 80H150L190 120H300M0 240H110L165 185H275M1200 70H1080L1030 120H950M1200 250H1100L1030 180H950"/>
+<circle cx="300" cy="120" r="5" fill="#00d9ff"/><circle cx="275" cy="185" r="5" fill="#00d9ff"/><circle cx="950" cy="120" r="5" fill="#00d9ff"/><circle cx="950" cy="180" r="5" fill="#00d9ff"/>
+</g>
+<path d="M240 265H960" stroke="url(#line)" stroke-width="3" filter="url(#glow)"/>
+<path d="M240 265H960" stroke="url(#line)" stroke-width="2"/>
+<text x="600" y="105" fill="#6edfff" text-anchor="middle" font-family="monospace" font-size="19" letter-spacing="7">&lt; HELLO WORLD /&gt;</text>
+<text x="600" y="175" fill="#00d9ff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="62" letter-spacing="5">SERGIO BRAVO</text>
+<text x="600" y="220" fill="#d7e8f5" text-anchor="middle" font-family="monospace" font-size="23" letter-spacing="6">SOFTWARE DEVELOPER</text>
+<text x="600" y="295" fill="#6588a3" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="4">JAVA • PHP • DOCKER • WEB DEVELOPMENT</text>
+</svg>
